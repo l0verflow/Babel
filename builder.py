@@ -20,6 +20,9 @@ def babel():
         elfD = f.read()
     print(f"ELF size: {len(elfD)} bytes")
 
+    if os.path.exists(elf_path):
+        os.remove(elf_path)
+
     with open("payloads/c/template.c", "r") as f:
         cT = f.read()
 
