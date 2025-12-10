@@ -3,4 +3,8 @@
 </p>
 <img width="510" height="469" alt="Untitled-1" src="https://github.com/user-attachments/assets/a4829f1e-a9a4-4ce7-8e4c-6361b3faa070" />
 
-# How It Works
+# Context
+
+> https://en.wikipedia.org/wiki/Polyglot_(computing)
+
+## How It Works
