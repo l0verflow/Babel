@@ -7,4 +7,12 @@
 
 > https://en.wikipedia.org/wiki/Polyglot_(computing)
 
-## How It Works
+# How It Works
+
+## ELF
+>https://man7.org/linux/man-pages/man5/elf.5.html
+
+## Python
+> https://peps.python.org/pep-0441/
+
+## PDF
